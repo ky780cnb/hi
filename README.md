@@ -22,9 +22,9 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣤⣤⣤⣤⣀⣀⣤⣤⣤⣶⣾⣿⣿⣿⣿⣿
 
 #My name is ky780cno😀👾
-I am a Python programmer🐍
-Unfortunately, the previous GitHub has been disabled @ky780cnr 😭
-Let's do something cool in this new account
-Join our Telegram channel and Discord server to support me and the team
-Telegram:https://t.me/kyETELAAT
-Discord:https://discord.com/invite/Z8z6xpjZhN
+<p>I am a Python programmer🐍</p>
+<h>Unfortunately, the previous GitHub has been disabled @ky780cnr 😭</h>
+<h1>Let's do something cool in this new account</h1>
+<h2>Join our Telegram channel and Discord server to support me and the team</h2>
+<p>Telegram:https://t.me/kyETELAAT</p>
+<p>Discord:https://discord.com/invite/Z8z6xpjZhN</p>
