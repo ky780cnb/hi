@@ -21,9 +21,9 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣤⣤⣤⣤⣀⣀⣤⣤⣤⣶⣾⣿⣿⣿⣿⣿
 
-#My name is <name>😀👾
+#My name is ky780cno😀👾
 I am a Python programmer🐍
-Unfortunately, the previous GitHub has been disabled @<name>😭
+Unfortunately, the previous GitHub has been disabled @ky780cnr 😭
 Let's do something cool in this new account
 Join our Telegram channel and Discord server to support me and the team
 Telegram:https://t.me/kyETELAAT
